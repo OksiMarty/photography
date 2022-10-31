@@ -183,7 +183,10 @@ ul {
 @media (max-width: 550px) {
   .hero-container {
     height: 300px;
+    
   }
+  .homepage-hero-container {margin-top:100px;}
+  .homepage-row {margin-top: 40px;}
   .ul-homepage {
     list-style: none;
     display: flex;
